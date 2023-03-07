@@ -10,12 +10,11 @@ export const Container = styled.div`
     justify-content: center;
 `
 
-
 export const Content = styled.div`
-    min-height: 350px;
-    background-color: #FFE;
-    width: 80%;
-    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 50%;
+    padding: 3px;
+    border-radius: 5px;
 `
 
 export const Row = styled.div`
